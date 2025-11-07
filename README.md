@@ -25,4 +25,4 @@ I worked 1.5 years as a medical device software tester in a healthcare company. 
 ## Contact
 - Email: sanikabalaji07@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sanika-prakash-121973175/
-- GitHub: 
+- GitHub: https://github.com/sanikabalaji
